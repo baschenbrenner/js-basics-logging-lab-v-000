@@ -1,3 +1,3 @@
 const driver = 'bob';
 console.log("this code was called");
-console.log(driver + "is stupid")
+console.log(driver)
